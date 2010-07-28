@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
-class CSRF {
+class csrf_Core {
 
 	public static $expiration = '+5 minutes';
 
